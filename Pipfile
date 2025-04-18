@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 pyspark = "*"
+pandas = "*"
+pandas-stubs = "*"
+pyarrow = "*"
 
 [dev-packages]
 autopep8 = "*"
